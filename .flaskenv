@@ -1,0 +1,2 @@
+FLASK_APP=runko
+FLASK_DEBUG=1
